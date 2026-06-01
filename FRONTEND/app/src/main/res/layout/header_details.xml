@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/headerDetails"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@drawable/bg_header"
+    android:paddingTop="40dp"
+    android:paddingHorizontal="24dp"
+    android:orientation="vertical">
+
+<TextView
+android:id="@+id/tvTitleCommande"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Commande #2042"
+android:textColor="#FFFFFF"
+android:textSize="22sp"
+android:textStyle="bold"
+ />
+
+<TextView
+android:id="@+id/tvStatusBadge"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_marginStart="12dp"
+android:background="@color/date_pill"
+android:paddingHorizontal="12dp"
+android:paddingVertical="4dp"
+android:text="En cours"
+android:textColor="#FFFFFF"
+android:textSize="12sp"
+android:textStyle="bold"
+/>
+
+</LinearLayout>

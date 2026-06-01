@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_card">#FFFFFFFF</color>
+    <color name="primary_green">#20502E</color>
+    <color name="primary_green_dark">#163A21</color>
+    <color name="accent_light_green">#C1E1C1</color>
+    <color name="background_app">#F2F4F2</color>
+    <color name="white_card">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="input_bg">#F9F9F9</color>
+    <color name="input_stroke">#E0E0E0</color>
+    <color name="livree">#E8F5E9</color>
+    <color name="enCours">#FFF8E1</color>
+    <color name="enAttente">#F5F5F5</color>
+    <color name="ordre">#F5F5F5</color>
+    <color name="date_pill">#33FFFFFF</color>
+</resources>
