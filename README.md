@@ -1,3 +1,4 @@
+
 # Delivery Supervision System
 
 A mobile and server-based delivery supervision solution designed to improve coordination between the control center and delivery agents.  
@@ -158,8 +159,7 @@ When the connection is restored, the app can synchronize local data with the ser
 - MALEK AYED
 
 
-This project was developed as part of a mobile development academic project and demonstrates delivery tracking, local storage, and backend integration [file:1].
-
 
 
 [Final Project Report.pdf](https://github.com/user-attachments/files/28457988/Final.Project.Report.pdf)
+[DOC_PROJET_SGBD.pdf](https://github.com/user-attachments/files/28458799/DOC_PROJET_SGBD.pdf)
